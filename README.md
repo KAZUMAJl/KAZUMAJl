@@ -9,4 +9,4 @@
 
 <div align="center"> 
   
-![](https://komarev.com/ghpvc/?username=KAZUMAJl&color=87b6c8&label=★&style=plastic&base=4038)
+![](https://komarev.com/ghpvc/?username=KAZUMAJl&color=87b6c8&label=★&style=plastic&base=)
