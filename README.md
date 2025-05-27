@@ -1,16 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <p align="center">
+    
+  ![BAYEAS](https://github.com/user-attachments/assets/9653158d-e0d3-4d6a-b975-8f44978ffc06)
 
-<!--
-**KAZUMAJl/KAZUMAJl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+<sup>[**rentry**](https://rentry.co/starpkm)⠀⠀✦⠀⠀[**atabook**](https://starpkmn.atabook.org)⠀⠀</sub></sup>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> 
+  
+![](https://komarev.com/ghpvc/?username=KAZUMAJl&color=87b6c8&label=★&style=plastic&base=4038)
