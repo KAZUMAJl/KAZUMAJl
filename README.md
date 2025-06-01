@@ -8,5 +8,5 @@
 </sub></sup>
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=KAZUMAJl&color=ffffff&label=★&style=plastic)
+![](https://komarev.com/ghpvc/?username=KAZUMAJl&color=a82c48&label=★&style=plastic)
   <p align="center">
